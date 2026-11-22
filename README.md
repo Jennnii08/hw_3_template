@@ -1,3 +1,4 @@
-## Шаблон для третьего ДЗ по ИПР
-
-Условие дз доступно по [ссылке](https://github.com/Nikfilk2030/missing_semester_hse_cs/blob/main/2026/amcs/year_1/hw_3/README.md)
+Логи на 4 балла:
+2026-11-22 16:29:35,247 listening port=8000 storage=sqlite
+2026-11-22 16:29:46,919 http 172.17.0.1 "POST /increment HTTP/1.1" 200 -
+2026-11-22 16:29:59,331 http 172.17.0.1 "POST /increment HTTP/1.1" 200 -
